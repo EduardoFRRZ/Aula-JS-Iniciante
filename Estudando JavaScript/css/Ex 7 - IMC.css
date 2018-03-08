@@ -1,0 +1,11 @@
+fieldset {
+	width: 165px;
+	color: red;
+	background-color: silver;
+	border-radius: 10px;
+	border-color: red;
+}
+
+a {
+	color: green;
+}
